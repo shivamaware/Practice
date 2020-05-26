@@ -7,6 +7,7 @@ public class MultiplicaionTableRunner {
 		table.print();	
 		//table.print(6);
 		//table.print(7,11,20);
+		System.out.println("This statement has been added for practice of github.")
 		
 	}
 
