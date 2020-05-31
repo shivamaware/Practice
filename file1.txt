@@ -1,3 +1,6 @@
 Hi
 There 
+<<<<<<< HEAD
 bye
+=======
+>>>>>>> 31d19b7... file1 commited commited again
